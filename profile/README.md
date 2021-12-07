@@ -1,14 +1,23 @@
 
-Documente în aer (AirDocs)
-====
+## Documente în aer (AirDocs[1])
 
-Proiectul Airdocs a îndeplinit următoarele obiective în anul 2021:
- * implementarea aplicației Android
+### Rezumat etapa 2020:
+
+ * investigarea disponibilității dispozitivelor Android pentru 
+ colectarea semnăturilor radio, a măsurilor de similaritate
+ * folosirea unor date publice pentru a testa măsurile de similaritate 
+ * implementarea unui prototip de colectare pe Android.
+ * Raport științific și tehnic [R1.pdf](https://github.com/documenteinaer/Raportari/blob/53ff763cdbc5bf393206d236bcb51e7179fcae77/airdocs_R1.pdf)
+ 
+#### Rezumat etapa 2021:
+
+ * implementarea aplicației client Android
  * implementarea serverului Python
  * colectarea și analiza datelor
  * proiectarea metodelor de măsurare a similarităților între semnăturile colectate în clădiri
  * publicarea codului client/server în acest repo
  * o publicațe în jurnal Q2, IF 3.44
+ * Raport științific și tehnic [R2.pdf](https://github.com/documenteinaer/Raportari/blob/53ff763cdbc5bf393206d236bcb51e7179fcae77/airdocs_R2.pdf)
 
 
 
