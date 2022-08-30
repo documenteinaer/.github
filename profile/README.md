@@ -4,7 +4,7 @@
 #### Rezumat etapa 2022:
   * 
   * 
-  * prezentare [Percom 2022][https://www.youtube.com/watch?v=1T780KuNEmg]
+  * prezentare [Percom 2022](https://www.youtube.com/watch?v=1T780KuNEmg)
 
  
 #### Rezumat etapa 2021:
