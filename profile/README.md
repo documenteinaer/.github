@@ -3,8 +3,11 @@
 
 #### Rezumat etapa 2022:
   * 
+  * publicare articol în conferința [IEEE PERCOM 2022](https://ieeexplore.ieee.org/document/9767318) 
   * 
-  * prezentare [Percom 2022](https://www.youtube.com/watch?v=1T780KuNEmg)
+  [![Click to watch on youtube](https://github.com/documenteinaer/Raportari/raw/main/percom_pres_thumbnail.png)]
+  (https://www.youtube.com/embed/1T780KuNEmg "PERCOM 2022 presentation")
+  
 
  
 #### Rezumat etapa 2021:
