@@ -2,11 +2,14 @@
 ## Documente în aer (AirDocs[1])
 
 #### Rezumat etapa 2022:
-  * 
+  * publicare articol în jurnalul [MDPI Sensors 2022](https://www.mdpi.com/1424-8220/22/2/687) 
   * publicare articol în conferința [IEEE PERCOM 2022](https://ieeexplore.ieee.org/document/9767318) 
-  * 
+  * acceptare articol în conferința [Mobiquituous 2022](https://mobiquitous.eai-conferences.org/)
   [![Click to watch on youtube](https://github.com/documenteinaer/Raportari/raw/main/percom_pres_thumbnail.png)]
   (https://www.youtube.com/embed/1T780KuNEmg "PERCOM 2022 presentation")
+  * Colectare [seturi de date](https://github.com/documenteinaer/data.upb)
+  * Implementre [aplicație Android](https://github.com/documenteinaer/ad-app)
+  * Implementre [server](https://github.com/documenteinaer/ad-server) 
   
 
  
